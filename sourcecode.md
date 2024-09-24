@@ -7,6 +7,10 @@ git clone https://github.com/Tanmoy023/DemoRepo.git
 cd .\DemoRepo\
 git status
 
+git remote add origine https://github.com/Tanmoy023/localRepo.git
+git remote -v
+git branch
+git branch -m main
 git add . 
 git commit -m "changed massage"
 git push origin main    // uplad our all changes form local repo to remote repo
