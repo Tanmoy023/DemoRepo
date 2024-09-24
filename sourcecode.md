@@ -6,3 +6,5 @@ git config --list
 git clone https://github.com/Tanmoy023/DemoRepo.git
 cd .\DemoRepo\
 git status
+git add . 
+git commit -m "changed massage"
